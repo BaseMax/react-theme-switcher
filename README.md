@@ -2,6 +2,18 @@
 
 ![](theme-switcher.gif)
 
+### Install dependency
+
+```
+npm install
+```
+
+### Start and serve service
+
+```
+npm start
+```
+
 ---------
 
 # Max Base
