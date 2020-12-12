@@ -42,7 +42,7 @@ mv /tmp/build/* .
 git status
 git add .
 git push
-git commit -m "Upload build directory to dh-pages branch
+git commit -m "Upload build directory to gh-pages branch
 ```
 
 ## Credit
