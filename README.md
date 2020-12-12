@@ -1,6 +1,6 @@
 # react-theme-switcher
 
-A ReactJS-based switch to change style of page from **Light** to **Dark** or versa.
+A React JS-based switch to change style of page from **Light** to **Dark** or vice versa.
 
 [![](theme-switcher.gif)](https://basemax.github.io/react-theme-switcher/)
 
