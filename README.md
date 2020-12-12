@@ -1,5 +1,7 @@
 # react-theme-switcher
 
+A ReactJS-based switch to change style of page from **Light** to **Dark** or versa.
+ 
 ![](theme-switcher.gif)
 
 ### Install dependency
