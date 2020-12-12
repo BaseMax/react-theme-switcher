@@ -4,12 +4,15 @@ A ReactJS-based switch to change style of page from **Light** to **Dark** or ver
 
 [![](theme-switcher.gif)](https://basemax.github.io/react-theme-switcher/)
 
+[Watch Demo](https://basemax.github.io/react-theme-switcher)
+
 ## Features
 
 - CSS Animation
 - React JS
 - React Context
 - React State Management
+- Host ReactJS App via [GitHub Pages](https://pages.github.com/)
 
 ### Install dependency
 
