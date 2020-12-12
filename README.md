@@ -41,8 +41,8 @@ rm -rf *
 mv /tmp/build/* .
 git status
 git add .
-git push
 git commit -m "Upload build directory to gh-pages branch
+git push
 ```
 
 ## Credit
