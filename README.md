@@ -32,7 +32,7 @@ npm start
 npm run-script build
 ```
 
-Move build directory to dh-pages branch and commit:
+Move build directory to gh-pages branch and commit:
 
 ```
 cp build/ /tmp/
