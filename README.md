@@ -1,8 +1,8 @@
 # react-theme-switcher
 
 A ReactJS-based switch to change style of page from **Light** to **Dark** or versa.
- 
-![](theme-switcher.gif)
+
+[![](theme-switcher.gif)](https://basemax.github.io/react-theme-switcher/)
 
 ## Features
 
@@ -21,6 +21,25 @@ npm install
 
 ```
 npm start
+```
+
+### Build project
+
+```
+npm run-script build
+```
+
+Move build directory to dh-pages branch and commit:
+
+```
+cp build/ /tmp/
+git checkout gh-pages
+rm -rf *
+mv /tmp/build/* .
+git status
+git add .
+git push
+git commit -m "Upload build directory to dh-pages branch
 ```
 
 ## Credit
