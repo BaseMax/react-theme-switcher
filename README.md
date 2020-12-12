@@ -23,6 +23,12 @@ npm install
 npm start
 ```
 
+### Build output files
+
+```
+npm run-script build
+```
+
 ## Credit
 
 This question was a company  question in a contest. I only join to solve this problem to challenge myself.
